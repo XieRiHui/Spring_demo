@@ -1,12 +1,12 @@
 #### 项目结构
 
-![image-20260318120252280](C:\Users\Pys\AppData\Roaming\Typora\typora-user-images\image-20260318120252280.png)
+![image-20260318120252280](docs/images/image-20260318120252280.png)
 
 #### 文件结构
 
 源代码在java文件夹下
 
-![image-20260317175916535](C:\Users\Pys\AppData\Roaming\Typora\typora-user-images\image-20260317175916535.png)
+![image-20260317175916535](docs/images/image-20260317175916535.png)
 
 `resources`放置前端静态文件或者一些配置文件
 
@@ -16,7 +16,7 @@
 
 #### 运行项目
 
-![image-20260317180523105](C:\Users\Pys\AppData\Roaming\Typora\typora-user-images\image-20260317180523105.png)
+![image-20260317180523105](docs/images/image-20260317180523105.png)
 
 打开`Application.java`文件，运行即可
 
